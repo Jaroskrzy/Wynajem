@@ -1,0 +1,2 @@
+# Wynajem
+Serwer do wynajmu
